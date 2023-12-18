@@ -164,7 +164,7 @@
 	<repositories>
     <repository>
       <id>${NEXUS-GRP-REPO}</id>
-      <url>http://13.201.91.251:8081//:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
+      <url>http://3.142.151.205:8081//:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
     </repository>
   </repositories>
 </project>
